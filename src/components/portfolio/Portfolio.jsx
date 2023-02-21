@@ -16,8 +16,8 @@ const Portfolio = () => {
                     </div>
                         <h3>Read To Me: Children's Reading Fluency App</h3>
                         <div className='portfolio__item-cta'>
-                            <a href="https://github.com/westonwork" className='btn' target='_blank'>Github</a>
-                            <a href="#" className='btn btn-primary' target='_blank'>Live Demo</a>
+                            <a href="https://github.com/westonwork/Read-To-Me-App" className='btn' target='_blank'>Github</a>
+                            {/* <a href="#" className='btn btn-primary' target='_blank'>Live Demo</a> */}
                         </div>
                 </article>
                 <article className='portfolio__item'>
@@ -26,8 +26,8 @@ const Portfolio = () => {
                     </div>
                         <h3>TickIt Bug Tracker: Software Bug Tracking App</h3>
                         <div className='portfolio__item-cta'>
-                            <a href="https://github.com/westonwork" className='btn' target='_blank'>Github</a>
-                            <a href="#" className='btn btn-primary' target='_blank'>Live Demo</a>
+                            <a href="https://github.com/westonwork/TickItBugTracker" className='btn' target='_blank'>Github</a>
+                            {/* <a href="#" className='btn btn-primary' target='_blank'>Live Demo</a> */}
                         </div>
                 </article>
             </div>
