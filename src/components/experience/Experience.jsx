@@ -48,6 +48,12 @@ const Experience = () => {
                                 <h4>Python</h4>
                             </div>
                         </article>
+                        <article className='experience__details'>
+                            <BsPatchCheckFill className='experience__details-icon'/>
+                            <div>
+                                <h4>Ruby</h4>
+                            </div>
+                        </article>
                     </div>
                 </div>
                 <div className='experience__backend'>
@@ -92,7 +98,13 @@ const Experience = () => {
                         <article className='experience__details'>
                             <BsPatchCheckFill className='experience__details-icon' />
                             <div>
-                                <h4>Entity Framework Core</h4>
+                                <h4>EF Core</h4>
+                            </div>
+                        </article>
+                        <article className='experience__details'>
+                            <BsPatchCheckFill className='experience__details-icon' />
+                            <div>
+                                <h4>Ruby on Rails</h4>
                             </div>
                         </article>
                     </div>
