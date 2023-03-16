@@ -20,6 +20,11 @@
     transition: var(--transition);
 }
 
+.education__option li {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
 .education__option:hover {
     background: transparent;
     border-color: var(--color-primary-variant);
