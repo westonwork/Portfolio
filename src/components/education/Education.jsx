@@ -15,7 +15,6 @@ const Education = () => {
                         <h3>Guaranteed Rate</h3>
                         <h5>Mortgage Sales Trainer & Mortgage Specialist || Aug 2019 - Sept 2022</h5>
                         <ul>
-                            <li>2021 Sales Trainer of the Year - Consumer Direct Division</li>
                             <li>Received an average of 12-15 new prospective applicants daily across 9 states and 4 time zones while project managing an average active personal pipeline of 20 loans or $7M and closing an average of $2M per month.</li>
                             <li>Onboarded 100+ loan officers with 90 -120 days of individualized, daily technical training which increased the division's speed to loan closing and reduced the average errors in an application upon submission from 40 to 4.</li>
                             <li>Researched, designed, and presented over 100 synchronous, remote trainings for 35-150 person sales teams using adult learning theory best practices and methodologies to increase loan officer KPIs and overall sales team retention.</li>

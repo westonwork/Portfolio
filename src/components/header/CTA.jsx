@@ -1,6 +1,6 @@
 import React from 'react'
 
-import Resume from '../../images/Weston-Emily-Resume.pdf'
+import Resume from '../../images/EmilyWestonResume.pdf'
 
 const CTA = () => {
     return (
