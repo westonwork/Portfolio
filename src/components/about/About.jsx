@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import ME from '../../images/emily8.jpeg'
+import ME from '../../images/GreenTrees.jpg'
 import {FaAward} from 'react-icons/fa'
 import {FiUsers} from 'react-icons/fi'
 import {VscFolderLibrary} from 'react-icons/vsc'
