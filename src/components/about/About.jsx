@@ -23,13 +23,13 @@ const About = () => {
                         <article className='about__card'>
                             <FaAward className='about__icon'/>
                             <h5>Education</h5>
-                            <small>Coding Dojo Bootcamp & Florida Gulf Coast University </small>
+                            <small>Coding Dojo & FGCU</small>
                         </article>
 
                         <article className='about__card'>
                             <FiUsers className='about__icon'/>
                             <h5>Location</h5>
-                            <small>Currently residing in Southwest Florida</small>
+                            <small>Southwest Florida</small>
                         </article>
 
                         <article className='about__card'>
@@ -40,13 +40,10 @@ const About = () => {
                     </div>
 
                     <p>
-                        I'm a full stack software developer with 5 years of exprience in mortgage lending and corporate training. I recently graduated from Coding Dojo's full time immersive software development bootcamp and I have a B.A. in Elementary Education.
-                    </p>
-                    <p>
-                        I started coding with HTML in college as we explored how to leverage different technologies in our classrooms. That grew into doing graphic design and technical training work as a freelancer throughout the last 7 years! 
-                    </p>
-                    <p>
-                        I've been passionate about using technology to help others and am excited to use my knowledge and skills to push the boundaries of what can be created even further!
+                        I'm a full stack software developer with 5 years of exprience in mortgage lending and corporate training. 
+                        I recently graduated from Coding Dojo's full time immersive software development bootcamp and I have a B.A. in Elementary Education.
+                        I'm passionate about using technology to help others and am excited to use my knowledge and skills 
+                        to push the boundaries of what can be created even further!
                     </p>
                 </div>
             </div>

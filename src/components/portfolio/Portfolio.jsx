@@ -12,6 +12,7 @@ import TBT2 from '../../images/TickIt_Bug_Tracker_Login_and_Registration.png'
 import TBT3 from '../../images/TickIt_Bug_Tracker_Home_Navigation_Page.png'
 import TBT4 from '../../images/TickIt_Bug_Tracker_My_TickIts.png'
 import TBT5 from '../../images/TickIt_Bug_Tracker_Add_A_TickIt.png'
+import PP1 from '../../images/Portfolio.png'
 
 
 const Portfolio = () => {
@@ -46,6 +47,24 @@ const Portfolio = () => {
                         <div className='portfolio__item-cta'>
                             <a href="#" className='btn btn-primary' target='_blank'>See It</a>
                             <a href="https://github.com/westonwork/TickItBugTracker" className='btn' target='_blank'>Github</a>
+                        </div>
+                        <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-element-bundle.min.js"></script>
+                        {/* <swiper-container>
+                            <swiper-slide>{TBT1}</swiper-slide>
+                            <swiper-slide>{TBT2}</swiper-slide>
+                            <swiper-slide>{TBT3}</swiper-slide>
+                            <swiper-slide>{TBT4}</swiper-slide>
+                            <swiper-slide>{TBT5}</swiper-slide>
+                        </swiper-container> */}
+                </article>
+                <article className='portfolio__item'>
+                    <div className='portfolio__item-image'>
+                        <img src={PP1} alt="image 2" />
+                    </div>
+                        <h3>Personal Portfolio</h3>
+                        <div className='portfolio__item-cta'>
+                            <a href="#" className='btn btn-primary' target='_blank'>See It</a>
+                            <a href="https://github.com/westonwork/Portfolio" className='btn' target='_blank'>Github</a>
                         </div>
                         <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-element-bundle.min.js"></script>
                         {/* <swiper-container>
