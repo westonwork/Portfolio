@@ -35,13 +35,13 @@ const About = () => {
                         <article className='about__card'>
                             <VscFolderLibrary className='about__icon'/>
                             <h5>Fun Fact</h5>
-                            <small>Dance Choreographer for 11+ Years</small>
+                            <small>Dance Choreographer for 11 years</small>
                         </article>
                     </div>
 
                     <p>
                         I'm a full stack software developer with 5 years of exprience in mortgage lending and corporate training. 
-                        I recently graduated from Coding Dojo's full time immersive software development bootcamp and I have a B.A. in Elementary Education.
+                        I'm a graduate of Coding Dojo's software development bootcamp and I have a B.A. in Elementary Education.
                         I'm passionate about using technology to help others and am excited to use my knowledge and skills 
                         to push the boundaries of what can be created even further!
                     </p>
